@@ -168,11 +168,14 @@ This is a demonstration solution that uses AWS AppSync to implement a survey app
 
 To clean up the project use:
 
+* [ ] Delete the resources created by the Amplify CLI.
+
 ```bash
 amplify delete
 ```
 
-to delete the resources created by the Amplify CLI.
+* [ ] Delete the generated S3 Bucket `amplify-surveypwa-dev*`
+* [ ] Delete the generated Pinpoint `surveypwa-dev*`
 
 ---
 
