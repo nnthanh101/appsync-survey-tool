@@ -4,6 +4,7 @@ AWSome Survey Tool Progressive Web Application written with React, GraphQL, AWS 
 
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://ap-southeast-1.console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/nnthanh101/appsync-survey-tool)
 
+> ✍️ It take around 15 mins to provision both Backend-GraphQL & Frontend-React.
 
 ![](src/assets/header.png)
 
