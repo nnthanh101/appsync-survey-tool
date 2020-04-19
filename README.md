@@ -1,8 +1,8 @@
-# AWS Appsync Survey Tool
+# Appsync Survey Tool
 
 AWSome Survey Tool Progressive Web Application written with React, GraphQL, AWS AppSync & AWS Amplify
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://ap-southeast-1.console.aws.amazon.com/amplify/home?region=ap-southeast-1#/deploy?repo=https://github.com/nnthanh101/appsync-survey-tool)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/nnthanh101/appsync-survey-tool)
 
 
 ![](src/assets/header.png)
@@ -30,7 +30,7 @@ AWSome Survey Tool Progressive Web Application written with React, GraphQL, AWS 
 
 ## Quicklinks
 
-- [AWS Appsync Survey Tool](#appsync-survey-tool)
+- [Appsync Survey Tool](#appsync-survey-tool)
   - [Features](#features)
   - [Technologies](#technologies)
   - [Quicklinks](#quicklinks)
