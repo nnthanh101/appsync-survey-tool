@@ -85,7 +85,7 @@ This is a demonstration solution that uses AWS AppSync to implement a survey app
    npm install
    ```
 
-3. Initilize the directory as an Amplify **Javascript** app using the **React** framework:
+3. Initialize the directory as an Amplify **Javascript** app using the **React** framework:
 
    ```bash
    amplify init
