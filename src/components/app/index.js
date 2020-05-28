@@ -177,7 +177,7 @@ function App() {
                                 <HomeIcon />
                             </IconButton>
                             <Typography variant="h6" className={classes.title}>
-                                AWSome Survey
+                                Survey Tool
                         </Typography>
                             {auth && (
                                 <div>
